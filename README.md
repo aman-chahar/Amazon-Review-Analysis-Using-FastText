@@ -1,5 +1,5 @@
 # Amazon-Review-Analysis-Using-FastText
-**LinkedIn Post: FastText Sentiment Analysis on Amazon Customer Reviews**
+**FastText Sentiment Analysis on Amazon Customer Reviews**
 
 Excited to share my recent project on sentiment analysis using FastText, focusing on a vast dataset of Amazon customer reviews. 🚀 The goal was to leverage machine learning to understand and predict sentiment based on user-generated content and star ratings. 🌟
 
